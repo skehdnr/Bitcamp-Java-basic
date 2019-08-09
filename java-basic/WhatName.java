@@ -1,8 +1,5 @@
-/**
- * ���� �Է¹޾Ƽ� ����ϴ� ���� (�ּ�)
- */
 class WhatName{
     public static void main (String[]args){
-        System.out.print("WhatName �ڹ�"); // ���¹�
+        System.out.print("이름이뭐니e"); //
     }
 }
