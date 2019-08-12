@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GenderChecker",
+            "request": "launch",
+            "mainClass": "GenderChecker",
+            "projectName": "java-basic_a8da86a5"
+        }
+    ]
+}
